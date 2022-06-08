@@ -180,7 +180,7 @@ body {
     box-shadow: 20px 20px 34ppx rgba(0, 0, 0, 0.03);
     border: 1px solid #cce7d0;
     border-radius: 4px;
-    margin: 15px 0;
+    margin: 50px 0;
 
 }
 
@@ -506,6 +506,7 @@ footer .col {
 }
 
 footer .logo {
+    width: 40%;
     margin-bottom: 30px;
 }
 
@@ -1179,5 +1180,6 @@ footer .copyright {
         width: 100%;
         padding: 20px;
     }
+
 }
 
